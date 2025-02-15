@@ -1,0 +1,501 @@
+Symptoms,Specialist
+Vision Loss,Ophthalmologist
+Eye Pain,Ophthalmologist
+Hormonal Imbalance,Gynecologist
+Depression,Psychiatrist
+Thyroid Disorders,Endocrinologist
+Joint Pain,Rheumatologist
+Colic,Pediatrician
+Shortness of Breath,Cardiologist
+Sleep Disorders,Psychiatrist
+Weakness,General Physician
+Acid Reflux,Gastroenterologist
+Nausea,Gastroenterologist
+Dry Eyes,Ophthalmologist
+Chronic Bronchitis,Pulmonologist
+Migraine,Neurologist
+Pregnancy Complications,Gynecologist
+Thyroid Disorders,Endocrinologist
+Difficulty Swallowing,ENT Specialist
+Colic,Pediatrician
+Ear Pain,Pediatrician
+Colic,Pediatrician
+Diarrhea,Gastroenterologist
+Acid Reflux,Gastroenterologist
+Kidney Stones,Urologist
+Migraine,Neurologist
+Acne,Dermatologist
+Nerve Pain,Neurologist
+Nausea,Gastroenterologist
+Dry Eyes,Ophthalmologist
+Sore Throat,ENT Specialist
+Dry Eyes,Ophthalmologist
+Weakness,General Physician
+Hearing Loss,ENT Specialist
+Acne,Dermatologist
+Frequent Urination,Urologist
+Blood in Urine,Urologist
+Sore Throat,ENT Specialist
+Weakness,General Physician
+Sleep Disorders,Psychiatrist
+Eye Pain,Ophthalmologist
+Dizziness,General Physician
+Constipation,Gastroenterologist
+Chest Pain,Cardiologist
+Hormonal Imbalance,Gynecologist
+Joint Pain,Rheumatologist
+Pelvic Pain,Gynecologist
+Dizziness,General Physician
+Shortness of Breath,Pulmonologist
+Unexplained Weight Loss,Endocrinologist
+Hearing Loss,ENT Specialist
+Hair Loss,Dermatologist
+Vomiting,Gastroenterologist
+Dizziness,General Physician
+Acid Reflux,Gastroenterologist
+Chronic Bronchitis,Pulmonologist
+Mood Swings,Psychiatrist
+Hearing Loss,ENT Specialist
+Painful Urination,Urologist
+Constipation,Gastroenterologist
+High Blood Pressure,Cardiologist
+Irregular Menstrual Cycles,Gynecologist
+Panic Attacks,Psychiatrist
+Mood Swings,Psychiatrist
+Weakness,General Physician
+Kidney Stones,Urologist
+Hearing Loss,ENT Specialist
+Body Aches,General Physician
+Colic,Pediatrician
+Excessive Thirst,Endocrinologist
+Panic Attacks,Psychiatrist
+Hearing Loss,ENT Specialist
+Blood in Urine,Urologist
+Lumps in Body,Oncologist
+Nerve Pain,Neurologist
+Shortness of Breath,Cardiologist
+Nasal Polyps,ENT Specialist
+Diabetes Symptoms,Endocrinologist
+High Blood Pressure,Cardiologist
+Erectile Dysfunction,Urologist
+Joint Pain,Rheumatologist
+Frequent Urination,Urologist
+Dry Eyes,Ophthalmologist
+Chronic Fatigue,Oncologist
+Chronic Fatigue,Oncologist
+Irregular Heartbeat,Cardiologist
+Dizziness,Neurologist
+Stiffness,Rheumatologist
+Kidney Stones,Urologist
+Weakness,General Physician
+Unexplained Weight Loss,Endocrinologist
+Joint Pain,Rheumatologist
+Fever in Infants,Pediatrician
+Thyroid Disorders,Endocrinologist
+Frequent Infections,Pediatrician
+Swelling in Legs,Cardiologist
+Childhood Allergies,Pediatrician
+Excessive Thirst,Endocrinologist
+Nausea,Gastroenterologist
+Shortness of Breath,Cardiologist
+Hormonal Imbalance,Gynecologist
+Abdominal Pain,Gastroenterologist
+Dry Eyes,Ophthalmologist
+Nail Disorders,Dermatologist
+Loss of Appetite,General Physician
+Painful Urination,Urologist
+Difficulty Swallowing,ENT Specialist
+Vision Loss,Ophthalmologist
+Seizures,Neurologist
+Chronic Bronchitis,Pulmonologist
+Excessive Thirst,Endocrinologist
+Dizziness,Neurologist
+Sore Throat,ENT Specialist
+Kidney Stones,Urologist
+Unexplained Weight Loss,Oncologist
+Night Sweats,Oncologist
+Chest Pain,Cardiologist
+Unexplained Weight Loss,Oncologist
+Stiffness,Rheumatologist
+Chest Tightness,Pulmonologist
+Erectile Dysfunction,Urologist
+Swelling in Legs,Cardiologist
+Ear Pain,Pediatrician
+Menopause Symptoms,Gynecologist
+Hair Loss,Dermatologist
+Persistent Cough,Pulmonologist
+Hearing Loss,ENT Specialist
+Dizziness,Neurologist
+Dizziness,General Physician
+Fatigue,General Physician
+Depression,Psychiatrist
+Painful Urination,Urologist
+Eye Pain,Ophthalmologist
+Seizures,Neurologist
+Kidney Stones,Urologist
+Colic,Pediatrician
+Irregular Heartbeat,Cardiologist
+Chronic Fatigue,Oncologist
+Unexplained Weight Loss,Oncologist
+Chronic Fatigue,Oncologist
+Irregular Menstrual Cycles,Gynecologist
+Mood Swings,Psychiatrist
+Weakness,General Physician
+Chronic Fatigue,Oncologist
+Body Aches,General Physician
+Chest Tightness,Pulmonologist
+Childhood Allergies,Pediatrician
+Unexplained Weight Loss,Endocrinologist
+Nasal Polyps,ENT Specialist
+Sinus Congestion,ENT Specialist
+Wheezing,Pulmonologist
+Thyroid Disorders,Endocrinologist
+Painful Urination,Urologist
+Mood Swings,Psychiatrist
+Shortness of Breath,Cardiologist
+Loss of Appetite,General Physician
+Nausea,Gastroenterologist
+Skin Rash,Dermatologist
+Eye Pain,Ophthalmologist
+Frequent Urination,Urologist
+Hormonal Imbalance,Gynecologist
+Eye Pain,Ophthalmologist
+Nausea,Gastroenterologist
+Swelling in Joints,Rheumatologist
+Unexplained Weight Loss,Endocrinologist
+Pelvic Pain,Gynecologist
+Ear Pain,Pediatrician
+Blood in Urine,Urologist
+Abdominal Pain,Gastroenterologist
+Headache,Neurologist
+Hormonal Imbalance,Gynecologist
+Acid Reflux,Gastroenterologist
+Dizziness,Neurologist
+Painful Urination,Urologist
+Panic Attacks,Psychiatrist
+Eczema,Dermatologist
+Menopause Symptoms,Gynecologist
+Eye Pain,Ophthalmologist
+Unexplained Weight Loss,Oncologist
+Depression,Psychiatrist
+Anxiety,Psychiatrist
+Frequent Urination,Urologist
+Erectile Dysfunction,Urologist
+Joint Pain,Rheumatologist
+Body Aches,General Physician
+Blurred Vision,Ophthalmologist
+Seizures,Neurologist
+Vision Loss,Ophthalmologist
+Sinus Congestion,ENT Specialist
+Irregular Heartbeat,Cardiologist
+Kidney Stones,Urologist
+Unexplained Weight Loss,Endocrinologist
+Wheezing,Pulmonologist
+Excessive Thirst,Endocrinologist
+Night Sweats,Oncologist
+Vision Loss,Ophthalmologist
+Fatigue,General Physician
+Menopause Symptoms,Gynecologist
+Eye Pain,Ophthalmologist
+Skin Rash,Dermatologist
+Pregnancy Complications,Gynecologist
+Nail Disorders,Dermatologist
+Headache,Neurologist
+Stiffness,Rheumatologist
+Blood in Urine,Urologist
+Chest Pain,Cardiologist
+Chest Pain,Cardiologist
+Stiffness,Rheumatologist
+Body Aches,General Physician
+Nasal Polyps,ENT Specialist
+Unexplained Weight Loss,Oncologist
+Acne,Dermatologist
+Excessive Thirst,Endocrinologist
+Thyroid Disorders,Endocrinologist
+Anxiety,Psychiatrist
+Memory Loss,Neurologist
+Pregnancy Complications,Gynecologist
+Vomiting,Gastroenterologist
+Kidney Stones,Urologist
+Frequent Urination,Urologist
+Depression,Psychiatrist
+Swelling in Joints,Rheumatologist
+Diabetes Symptoms,Endocrinologist
+Sore Throat,ENT Specialist
+Colic,Pediatrician
+Panic Attacks,Psychiatrist
+Fever in Infants,Pediatrician
+Ear Pain,Pediatrician
+Frequent Infections,Pediatrician
+Chest Pain,Cardiologist
+Sleep Disorders,Psychiatrist
+Unexplained Weight Loss,Endocrinologist
+Sleep Disorders,Psychiatrist
+Thyroid Disorders,Endocrinologist
+Wheezing,Pulmonologist
+High Blood Pressure,Cardiologist
+Chronic Fatigue,Rheumatologist
+Dizziness,General Physician
+Blood in Urine,Urologist
+Acid Reflux,Gastroenterologist
+Thyroid Disorders,Endocrinologist
+Blurred Vision,Ophthalmologist
+Blurred Vision,Ophthalmologist
+Sinus Congestion,ENT Specialist
+Painful Urination,Urologist
+Chronic Fatigue,Rheumatologist
+Eye Pain,Ophthalmologist
+Fever,General Physician
+Memory Loss,Neurologist
+Acne,Dermatologist
+Joint Pain,Rheumatologist
+Sinus Congestion,ENT Specialist
+Shortness of Breath,Pulmonologist
+Body Aches,General Physician
+Excessive Thirst,Endocrinologist
+Wheezing,Pulmonologist
+Constipation,Gastroenterologist
+Thyroid Disorders,Endocrinologist
+Acne,Dermatologist
+Chronic Fatigue,Oncologist
+Chest Pain,Cardiologist
+Lumps in Body,Oncologist
+Excessive Thirst,Endocrinologist
+Wheezing,Pulmonologist
+Chronic Bronchitis,Pulmonologist
+Erectile Dysfunction,Urologist
+Irregular Menstrual Cycles,Gynecologist
+Kidney Stones,Urologist
+Headache,Neurologist
+Wheezing,Pulmonologist
+Lumps in Body,Oncologist
+Headache,Neurologist
+Dry Eyes,Ophthalmologist
+Body Aches,General Physician
+Pelvic Pain,Gynecologist
+Dizziness,General Physician
+Kidney Stones,Urologist
+Delayed Growth,Pediatrician
+Unexplained Weight Loss,Oncologist
+Headache,Neurologist
+Diarrhea,Gastroenterologist
+Childhood Allergies,Pediatrician
+Fever,General Physician
+Fever in Infants,Pediatrician
+Migraine,Neurologist
+Ear Pain,Pediatrician
+Body Aches,General Physician
+Pregnancy Complications,Gynecologist
+Erectile Dysfunction,Urologist
+Vision Loss,Ophthalmologist
+Blurred Vision,Ophthalmologist
+Thyroid Disorders,Endocrinologist
+Body Aches,General Physician
+Excessive Thirst,Endocrinologist
+Skin Rash,Dermatologist
+Loss of Appetite,General Physician
+Hair Loss,Dermatologist
+Chronic Bronchitis,Pulmonologist
+Headache,Neurologist
+Menopause Symptoms,Gynecologist
+Hearing Loss,ENT Specialist
+Chest Tightness,Pulmonologist
+Headache,Neurologist
+Persistent Cough,Pulmonologist
+Difficulty Swallowing,ENT Specialist
+Dizziness,Neurologist
+Childhood Allergies,Pediatrician
+Chronic Fatigue,Rheumatologist
+Swelling in Legs,Cardiologist
+Depression,Psychiatrist
+Blurred Vision,Ophthalmologist
+Migraine,Neurologist
+Wheezing,Pulmonologist
+Swelling in Legs,Cardiologist
+Swelling in Legs,Cardiologist
+Joint Pain,Rheumatologist
+Blood in Urine,Urologist
+Eczema,Dermatologist
+Thyroid Disorders,Endocrinologist
+Excessive Thirst,Endocrinologist
+Fever,General Physician
+Unexplained Weight Loss,Oncologist
+Psoriasis,Dermatologist
+Eczema,Dermatologist
+Chronic Bronchitis,Pulmonologist
+Delayed Growth,Pediatrician
+Vision Loss,Ophthalmologist
+Excessive Thirst,Endocrinologist
+Eye Pain,Ophthalmologist
+Dizziness,Neurologist
+Chest Pain,Cardiologist
+Stiffness,Rheumatologist
+Stiffness,Rheumatologist
+Eye Pain,Ophthalmologist
+Fever in Infants,Pediatrician
+Sleep Disorders,Psychiatrist
+Difficulty Swallowing,ENT Specialist
+Unexplained Weight Loss,Oncologist
+Sleep Disorders,Psychiatrist
+Wheezing,Pulmonologist
+Constipation,Gastroenterologist
+Irregular Menstrual Cycles,Gynecologist
+Dry Eyes,Ophthalmologist
+Chest Tightness,Pulmonologist
+Acne,Dermatologist
+Shortness of Breath,Cardiologist
+Vision Loss,Ophthalmologist
+Vomiting,Gastroenterologist
+Hormonal Imbalance,Gynecologist
+Unexplained Weight Loss,Endocrinologist
+Chest Pain,Cardiologist
+Sleep Disorders,Psychiatrist
+Erectile Dysfunction,Urologist
+Acne,Dermatologist
+Diabetes Symptoms,Endocrinologist
+Joint Pain,Rheumatologist
+Pelvic Pain,Gynecologist
+Nasal Polyps,ENT Specialist
+Shortness of Breath,Pulmonologist
+Skin Rash,Dermatologist
+Constipation,Gastroenterologist
+Persistent Cough,Pulmonologist
+Nail Disorders,Dermatologist
+Childhood Allergies,Pediatrician
+Fever in Infants,Pediatrician
+Frequent Infections,Pediatrician
+Pregnancy Complications,Gynecologist
+Blood in Urine,Urologist
+Dizziness,Neurologist
+Diabetes Symptoms,Endocrinologist
+Menopause Symptoms,Gynecologist
+Chronic Fatigue,Rheumatologist
+Eye Pain,Ophthalmologist
+Acid Reflux,Gastroenterologist
+Pelvic Pain,Gynecologist
+Irregular Menstrual Cycles,Gynecologist
+Blurred Vision,Ophthalmologist
+Eye Pain,Ophthalmologist
+Fever,General Physician
+Chronic Fatigue,Oncologist
+Ear Pain,Pediatrician
+Sinus Congestion,ENT Specialist
+Sinus Congestion,ENT Specialist
+Psoriasis,Dermatologist
+Migraine,Neurologist
+Chronic Fatigue,Oncologist
+Unexplained Weight Loss,Oncologist
+Abdominal Pain,Gastroenterologist
+Lumps in Body,Oncologist
+Blood in Urine,Urologist
+Childhood Allergies,Pediatrician
+Night Sweats,Oncologist
+Hair Loss,Dermatologist
+Chronic Fatigue,Oncologist
+Mood Swings,Psychiatrist
+Migraine,Neurologist
+Menopause Symptoms,Gynecologist
+High Blood Pressure,Cardiologist
+Irregular Heartbeat,Cardiologist
+Abdominal Pain,Gastroenterologist
+Headache,Neurologist
+Migraine,Neurologist
+Fever in Infants,Pediatrician
+Dizziness,General Physician
+Chest Pain,Cardiologist
+Swelling in Joints,Rheumatologist
+Frequent Infections,Pediatrician
+Chest Tightness,Pulmonologist
+Mood Swings,Psychiatrist
+Frequent Urination,Urologist
+Chronic Bronchitis,Pulmonologist
+Fever,General Physician
+Chronic Bronchitis,Pulmonologist
+Seizures,Neurologist
+Ear Pain,Pediatrician
+Stiffness,Rheumatologist
+Loss of Appetite,General Physician
+Blood in Urine,Urologist
+Persistent Cough,Pulmonologist
+Unexplained Weight Loss,Endocrinologist
+Chest Tightness,Pulmonologist
+Blood in Urine,Urologist
+Unexplained Weight Loss,Oncologist
+Chest Tightness,Pulmonologist
+Childhood Allergies,Pediatrician
+Fever,General Physician
+Pelvic Pain,Gynecologist
+Colic,Pediatrician
+Blurred Vision,Ophthalmologist
+Dizziness,General Physician
+Colic,Pediatrician
+Erectile Dysfunction,Urologist
+Nasal Polyps,ENT Specialist
+Painful Urination,Urologist
+Delayed Growth,Pediatrician
+Joint Pain,Rheumatologist
+Joint Pain,Rheumatologist
+Swelling in Joints,Rheumatologist
+High Blood Pressure,Cardiologist
+Seizures,Neurologist
+Swelling in Legs,Cardiologist
+Pelvic Pain,Gynecologist
+Panic Attacks,Psychiatrist
+Headache,Neurologist
+Mood Swings,Psychiatrist
+Eye Pain,Ophthalmologist
+Psoriasis,Dermatologist
+Swelling in Joints,Rheumatologist
+Blurred Vision,Ophthalmologist
+Psoriasis,Dermatologist
+Psoriasis,Dermatologist
+Weakness,General Physician
+Joint Pain,Rheumatologist
+Chest Tightness,Pulmonologist
+Kidney Stones,Urologist
+Sinus Congestion,ENT Specialist
+Mood Swings,Psychiatrist
+Thyroid Disorders,Endocrinologist
+Swelling in Joints,Rheumatologist
+Constipation,Gastroenterologist
+Excessive Thirst,Endocrinologist
+Eye Pain,Ophthalmologist
+Irregular Menstrual Cycles,Gynecologist
+Difficulty Swallowing,ENT Specialist
+High Blood Pressure,Cardiologist
+Swelling in Joints,Rheumatologist
+Anxiety,Psychiatrist
+Menopause Symptoms,Gynecologist
+Nerve Pain,Neurologist
+Anxiety,Psychiatrist
+Menopause Symptoms,Gynecologist
+Chronic Fatigue,Oncologist
+Persistent Cough,Pulmonologist
+Chronic Fatigue,Rheumatologist
+Nausea,Gastroenterologist
+Constipation,Gastroenterologist
+Night Sweats,Oncologist
+Pregnancy Complications,Gynecologist
+Hair Loss,Dermatologist
+Swelling in Legs,Cardiologist
+Chronic Fatigue,Rheumatologist
+Childhood Allergies,Pediatrician
+Erectile Dysfunction,Urologist
+Excessive Thirst,Endocrinologist
+Fever in Infants,Pediatrician
+Chronic Fatigue,Rheumatologist
+Childhood Allergies,Pediatrician
+Sore Throat,ENT Specialist
+Diarrhea,Gastroenterologist
+Thyroid Disorders,Endocrinologist
+Irregular Heartbeat,Cardiologist
+Loss of Appetite,General Physician
+Sleep Disorders,Psychiatrist
+Thyroid Disorders,Endocrinologist
+Bloating,Gastroenterologist
+Dry Eyes,Ophthalmologist
+Irregular Heartbeat,Cardiologist
+Frequent Infections,Pediatrician
+Eczema,Dermatologist
+Unexplained Weight Loss,Endocrinologist
+Irregular Heartbeat,Cardiologist
